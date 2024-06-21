@@ -60,6 +60,12 @@
     cursor: pointer;
 }
 
+.experience__img{
+
+    width: 1000px;
+    height: 600px;
+}
+
 @media (max-width: 768px){
     .experiencie__box{
         display:flex;
